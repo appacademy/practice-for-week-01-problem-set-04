@@ -9,7 +9,7 @@ function maxInMatrix(matrix) {
 }
 
 /** Comment in these logs for local testing */
-// const matrix = [
+// let matrix = [
 // 	[11, 2, -99],
 // 	[20, 19, 10],
 // 	[47, 72, 56],

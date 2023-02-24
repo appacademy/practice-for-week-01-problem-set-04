@@ -9,10 +9,10 @@ function twoDimensionalProduct(arr) {
 }
 
 /** Comment in these logs for local testing */
-// const arr1 = [[6, 4], [5], [3, 1]];
+// let arr1 = [[6, 4], [5], [3, 1]];
 // console.log(twoDimensionalProduct(arr1)); // 360
 
-// const arr2 = [[11, 4], [2]];
+// let arr2 = [[11, 4], [2]];
 // console.log(twoDimensionalProduct(arr2)); // 88
 
 /**================== DO NOT MODIFY CODE BELOW THIS LINE ==================**/
